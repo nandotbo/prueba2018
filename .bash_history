@@ -156,3 +156,68 @@ git commit -m "Primer commit del proyecto desde pc local del mides"
 git status
 git pull request
 exit
+git init
+git status
+git add -a
+git add -A
+git config
+clear
+git status
+git status -s
+git status
+git add *
+git status
+git add *
+git commit -m "primer commit"
+git status
+git branch
+git branch -b Rama1
+git branch -B Rama1
+git branch -b ramaUno
+git status
+git branch
+git checkout -b ramaUno
+git branch
+git status
+git remote add origin https://github.com/nandotbo/prueba2018.git
+git branch master
+git checkout master
+git status
+git help
+git status
+git rm -f mides4.0_copia_local_backup
+git status
+git add *
+git status
+git status
+git add -A
+git status
+git add mides4.0
+git status
+cd mides4.0
+git status
+git add *
+git status
+git branch
+git status
+git commit -m "Primer commit"
+git status
+git push origin master
+git remote add origin https://github.com/nandotbo/prueba2018.git
+git push -u origin master
+git remote
+git log
+git branch
+exit
+git init
+cd mides4.0
+exit
+git status
+git add .
+git status
+git remote
+git remote -v
+git remote show repomides
+git remote rm repomides
+git remote
+exit
